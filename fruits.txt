@@ -1,6 +1,1 @@
 apples
-berries
-cherries
-tomatoes
-bananas
-mangoes
